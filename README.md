@@ -1,5 +1,5 @@
 # P0WER
-
+#### A handbook to Ultimate Power
 ```
 **************************************************************
 * A guide on gaining power, through dark psychology          *
