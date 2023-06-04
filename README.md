@@ -1,4 +1,13 @@
-# Gaining Power, Influence, and Control: A Guide to Dark Psychology
+# P0WER
+
+```
+**************************************************************
+* A guide on gaining power, through dark psychology          *
+* Read LICENSE of this repository first,                     *
+* All right to D4RKH0R1Z0N, the Author is not responsible    *
+* for any sort of damage, AI-Generated.                      *
+**************************************************************
+```
 
 ## Table of Contents
 
