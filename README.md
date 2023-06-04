@@ -1,7 +1,5 @@
 # Gaining Power, Influence, and Control: A Guide to Dark Psychology
 
-[Jump to Contents](#table-of-contents)
-
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
@@ -14,7 +12,7 @@
 8. [Understanding Social Dynamics](#8-understanding-social-dynamics)
 9. [Power Dynamics: Ascending the Hierarchy](#9-power-dynamics-ascending-the-hierarchy)
 10. [Practical Application of Dark Psychology](#10-practical-application-of-dark-psychology)
-11. [Exam: Test your knowledge](#11-test-your-knowledge)
+11. [Exam: Test your knowledge](#11-exam-test-your-knowledge)
 12. [Conclusion](#12-conclusion)
 
 ## 1. Introduction
