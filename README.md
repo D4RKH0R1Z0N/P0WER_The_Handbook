@@ -200,5 +200,5 @@ Congratulations on completing this comprehensive guide to gaining power, influen
 
 ---
 
-# Made by D4RKH0R1Z0N
-## Published by the Organization [D4RK-ORG](https://github.com/d4rk-org)
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
