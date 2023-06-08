@@ -336,11 +336,11 @@ Published by the organization of D4RK-ORG
 
 ## Table of Contents
 
-1. Introduction to Power Dynamics
-2. Social Dynamics and Manipulation
-3. Dark Personalities: Machiavellianism, Narcissism, and Psychopathy
-4. Exploring the Depths of Evil and Selfishness
-5. Success Through Dark Means: Unveiling Unconventional Strategies
+1. [Introduction to Power Dynamics](#chapter-1-introduction-to-power-dynamics)
+2. [Social Dynamics and Manipulation](#chapter-2-social-dynamics-and-manipulation)
+3. [Dark Personalities: Machiavellianism, Narcissism, and Psychopathy](#chapter-3-dark-personalities-machiavellianism-narcissism-and-psychopathy)
+4. [Exploring the Depths of Evil and Selfishness](#chapter-4-exploring-the-depths-of-evil-and-selfishness)
+5. [Success Through Dark Means: Unveiling Unconventional Strategies](#chapter-5-success-through-dark-means-unveiling-unconventional-strategies)
 
 ## Chapter 1: Introduction to Power Dynamics
 
