@@ -1,5 +1,8 @@
 # P0WER
-#### A handbook to Ultimate Power
+### A handbook to Ultimate Power
+
+---
+
 ```
 **************************************************************
 * A guide on gaining power, through dark psychology          *
@@ -9,7 +12,12 @@
 **************************************************************
 ```
 
-## Read all ofthe versions to fully understand
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
+---
+
+## Read all of the versions to fully understand
 
 <ul>
    <li>
