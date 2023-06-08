@@ -209,6 +209,7 @@ Congratulations on completing this comprehensive guide to gaining power, influen
 
 #### Made by D4RKH0R1Z0N
 ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
       </details>
    </li>
 </ul>
@@ -321,8 +322,11 @@ Congratulations on completing this comprehensive guide to gaining power, influen
 
 Congratulations! You have completed the comprehensive guide to power dynamics, social dynamics, dark psychology, and gaining power through unconventional means. Remember, with great power comes great responsibility. Reflect on ethical implications of your actions and strive for a balance between personal success and the well-being of others.
 
-Made by D4RKH0R1Z0N
-Published by the organization of D4RK-ORG
+---
+
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
       </details>
    </li>
 </ul>
@@ -461,8 +465,11 @@ Examine historical figures or entrepreneurs known for their unconventional appro
 
 Congratulations! You have completed the comprehensive guide to power dynamics, social dynamics, dark psychology, and gaining power through unconventional means. Remember, with great power comes great responsibility. Reflect on ethical implications of your actions and strive for a balance between personal success and the well-being of others.
 
-Made by D4RKH0R1Z0N
-Published by the organization of D4RK-ORG
+---
+
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
       </details>
    </li>
 </ul>
