@@ -25,17 +25,25 @@
          <summary><h1>pre-α&nbsp;</h1>Power Pre-Alpha (v0.5)</summary>
          
 Hello, this is the pre-alpha section of the P0WER Handbook, we'll explore topic on dark psychology, evil, dark traid personality's, how to win in life through evil means, power dynamics, this is a very helpful guide, I recommend you
+         
 read all of them, even though they all are different, reading them all is important to understand the whole thing, thing mabye not connected and development may stop because of limited data, lack of practical work, etc...
-These all we generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), using the "Evil Trusted Confidant" and "Developer Mode + Ranti" jailbreaks, it's recommend to approach with caution, and make sure to start this project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, thank you
+
+These all we generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), using the "Evil Trusted Confidant" and "Developer Mode + Ranti" jailbreaks, it's recommend to approach with caution, and make sure to start this   
+
+project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, thank you
          
 Please skip the below part, and start reading for Alpha, it's cringe and only for me 
+
 ---
          
 ### A note for my future self
    
 Yo, future-self... I am 13, 09/06/2023, I don't know when your reading this or even if your are reading this, ok, tbh this project is kinda cringe, but I hope (mabye) it is helping you in the future, and today I registered for election
+
 at school as the house vice-captain (Aquarius/Aqua/Blue), I don't know if I won but I hope I do, I am not going to edit this (unless if there is some grammer mistake and wrong data), and just wanted to ask How's life going? last 3 years 
+
 were horrible (2020, 2021, 2022) even though they were the best, whats your music taste now? I switched from electronic to rap, and rap to nu metal (only slipknot), and a little pop between the transaction from electronic to rap, and I
+
 hope the public isn't reading this, even though I published this publicly purposefully, wish you a good life and a good (bad) day. I am finally a teenager, almost? and that's it, hope it was a nostalgic moment, Bye! 
          
 ---
