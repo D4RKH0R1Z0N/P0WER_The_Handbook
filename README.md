@@ -32,7 +32,7 @@ These all we generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), u
 
 project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, thank you
          
-Please skip the below part, and start reading for Alpha, it's cringe and only for me 
+# Please skip the below part, and start reading for Alpha, it's cringe and only for me 
 
 ---
          
