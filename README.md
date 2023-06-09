@@ -34,11 +34,18 @@ project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, tha
          
 ## Please skip the below part, and start reading from Alpha, it's cringe and only for me 
 
+<ul>
+   <li>
+      <details>
+         <summary>Don't click please...</summary>
+         
+### Hope you didn't embarrass yourself by sharing your github profile in the school...
+
 ---
          
 ### A note for my future self
    
-Yo, future-self... I am 13, 09/06/2023, I don't know when your reading this or even if your are reading this, ok, tbh this project is kinda cringe, but I hope (mabye) it is helping you in the future, and today I registered for election
+Yo, future-self... I am 13, 09/06/2023, Changed to a new school btw, I don't know when your reading this or even if your are reading this, ok, tbh this project is kinda cringe, but I hope (mabye) it is helping you in the future, and today I registered for election
 
 at school as the house vice-captain (Aquarius/Aqua/Blue), I don't know if I won but I hope I do, I am not going to edit this (unless if there is some grammer mistake and wrong data), and just wanted to ask How's life going? last 3 years 
 
@@ -47,6 +54,9 @@ were horrible (2020, 2021, 2022) even though they were the best, whats your musi
 hope the public isn't reading this, even though I published this publicly purposefully, wish you a good life and a good (bad) day. I am finally a teenager, almost? and that's it, hope it was a nostalgic moment, Bye! 
          
 ---
+      </details>
+   </li>
+</ul>
       </details>
    </li>
 </ul>   
