@@ -449,79 +449,101 @@ Exploit the inherent fear of scarcity to control your targets' actions. Manipula
 <ul>
   <li>
     <details>
-      <summary><h1>Δ&nbsp;</h1>Power Delta - Examination</summary>
+      <summary><h1>Δ&nbsp;</h1>Power Delta (v3.0)</summary>
 
-[ ⚠️ UNDER CONSTRUCTION/IN DEVELOPMENT ⚠️ ]  
+### Table of Contents :
 
-## Delta Exam Instructions:
-  - Read each scenario carefully.
-  - Answer the questions concisely and accurately.
-  - The points assigned to each question indicate their difficulty level.
-  - Total points: 100.
-  - Scale to measure your skills: 1-100.
+- [Introduction to Dark Psychology and Manipulation](#chapter-1-introduction-to-dark-psychology-and-manipulation)
+- [Exploring Machiavellianism and Power Dynamics](#chapter-2-exploring-machiavellianism-and-power-dynamics)
+- [Narcissism and Psychopathy: Understanding the Dark Triad](#chapter-3-narcissism-and-psychopathy-understanding-the-dark-triad)
+- [Success in Life Through Unethical Means](#chapter-4-success-in-life-through-unethical-means)
+- [Psychological Manipulation and Gaslighting](#chapter-5-psychological-manipulation-and-gaslighting)
 
-  ### Scenario 1: Power Dynamics and Recognizing Injustice
-  
-  You are an employee in a large organization where power dynamics heavily influence decision-making processes and career advancement opportunities. You have observed unfair treatment and favoritism among colleagues. Analyze the situation and answer the following questions:
-  
-  #### 1. What are the different forms of power that may exist in this organization? (3 points)
-     - Answer: The different forms of power may include legitimate power (based on formal position), reward power (control over rewards), coercive power (control over punishments), expert power (knowledge and skills), referent power (charisma and personal qualities), and informational power (access to valuable information).
+---
 
-  #### 2. How do power structures impact the interactions between individuals and groups within the organization? (4 points)
-     - Answer: Power structures can influence communication, decision-making, and collaboration. They can create hierarchies, unequal distribution of resources, and favoritism, leading to conflicts, lack of trust, and reduced motivation among employees.
+## Chapter 1: Introduction to Dark Psychology and Manipulation
 
-  #### 3. Identify the power distribution within the organization based on the scenario provided. (5 points)
-     - Answer: The power distribution in the organization seems to be skewed, with certain individuals having more power and influence than others. This can be seen through the unfair treatment and favoritism observed among colleagues.
+### Lesson 1: Understanding Persuasion Techniques
+In this lesson, we delve into the various psychological techniques used to influence and persuade others. We explore the power of language, non-verbal cues, and emotional manipulation. Remember, these concepts are presented solely for fictional purposes and should not be applied in real-life situations.
 
-  #### 4. How can recognizing power imbalances help address the issues of unfair treatment and favoritism? (5 points)
-     - Answer: Recognizing power imbalances is crucial to address unfair treatment and favoritism. By acknowledging these imbalances, organizations can implement measures such as transparency, accountability, and equitable policies to promote fairness, equal opportunities, and a more inclusive work environment.
+Power Move: Utilizing the scarcity principle to create a sense of urgency and demand.
 
-  ### Scenario 2: Emotional Manipulation and Narcissistic Abuse
-  
-  You suspect that your friend is in an emotionally abusive relationship with a narcissistic partner. Analyze the situation and answer the following questions:
-  
-  #### 5. Describe the signs and tactics typically employed in emotionally abusive relationships. (4 points)
-     - Answer: Signs of emotional abuse include constant criticism, manipulation, gaslighting, isolation, controlling behavior, and a lack of empathy. Tactics employed by abusers may involve emotional blackmail, guilt-tripping, undermining self-esteem, and creating dependency.
+### Lesson 2: Leveraging Emotional Triggers
+Discover how emotions can be used as powerful tools for manipulation. We explore how to identify and exploit individuals' emotional vulnerabilities, enabling you to exert control and influence over them. Remember, treating others with empathy and respect is essential in real-life interactions.
 
-  #### 6. What are the potential consequences of long-term emotional abuse on the victim's mental health and well-being? (5 points)
-     - Answer: Long-term emotional abuse can have severe psychological effects on the victim, including anxiety, depression, low self-esteem, post-traumatic stress disorder (PTSD), and even suicidal ideation. It can lead to a sense of helplessness, self-blame, and difficulties in forming healthy relationships.
+Power Move: Isolating a person from their support network to increase dependence.
 
-  #### 7. How can someone effectively support a friend who is experiencing emotional abuse? Provide specific strategies. (6 points)
-     - Answer: Effective strategies to support a friend experiencing emotional abuse include:
-        - Listening without judgment and validating their feelings.
-        - Encouraging them to seek professional help or counseling.
-        - Helping them develop a safety plan and access resources such as helplines and support groups.
-        - Assisting in documenting instances of abuse for legal purposes.
-        - Offering a safe space and emotional support without pressuring them to leave the relationship.
+### Lesson 3: The Art of Deception
+Uncover the techniques behind successful deception and deceit. We discuss the importance of creating convincing narratives, managing information flow, and mastering the art of misdirection. Remember, honesty and integrity are crucial in building meaningful relationships.
 
-  #### 8. Explain the concept of narcissistic personality disorder and how it relates to emotional abuse. (5 points)
-     - Answer: Narcissistic personality disorder (NPD) is a psychological condition characterized by an inflated sense of self-importance, a constant need for admiration, and a lack of empathy for others. Individuals with NPD often engage in emotional abuse to maintain control, manipulate others, and boost their own ego.
+Power Move: Planting false evidence to manipulate perception and control outcomes.
 
-  ### Scenario 3: Unethical Pursuit of Success
-  
-  You have a close friend who is determined to achieve success by any means necessary, even if it involves compromising ethical principles. Analyze the situation and answer the following questions:
-  
-  #### 9. How would you explain the potential consequences of pursuing success through unethical means to your friend? (5 points)
-     - Answer: Explaining the potential consequences may involve discussing the damage to personal integrity, reputation, and relationships. It could lead to legal consequences, loss of trust, isolation, and a constant fear of exposure or retaliation.
+## Chapter 2: Exploring Machiavellianism and Power Dynamics
 
-  #### 10. What are some potential long-term effects on personal well-being and relationships when compromising ethical principles for success? (6 points)
-      - Answer: Compromising ethical principles for success can lead to a range of long-term effects, including guilt, shame, and self-doubt. It may strain personal relationships, causing mistrust and disconnection. It can also lead to a sense of emptiness, dissatisfaction, and an erosion of one's core values.
+### Lesson 1: Strategic Thinking and Machiavellian Principles
+In this lesson, we explore the principles of Machiavellianism and how strategic thinking can be employed to gain power and influence. We examine the tactics of calculated risk-taking, long-term planning, and the manipulation of power dynamics.
 
-  #### 11. Why is it important to reflect on the ethical implications of actions when pursuing success through unconventional means? (4 points)
-      - Answer: Reflecting on ethical implications is essential because it allows individuals to align their actions with their values, maintain their moral compass, and preserve their sense of integrity. It enables them to make informed decisions, avoid potential harm, and foster a positive impact on themselves and society.
+Power Move: Forming alliances and coalitions to strengthen your position.
 
-  #### 12. Discuss the role of personal integrity and moral values in achieving long-term success and fulfillment. (5 points)
-      - Answer: Personal integrity and moral values serve as guiding principles in achieving long-term success and fulfillment. They provide a strong foundation for decision-making, foster trust and credibility, build meaningful relationships, and contribute to a sense of purpose and satisfaction.
+### Lesson 2: Influencing and Controlling Others
+Learn how to influence and control others to achieve your desired outcomes. We delve into the psychology of persuasion, the art of negotiation, and the strategic use of rewards and punishments.
 
-  ### Scale to Measure Your Skills:
-  - 90-100: Exceptional
-  - 70-89: Advanced
-  - 50-69: Proficient
-  - 30-49: Intermediate
-  - 0-29: Novice
+Power Move: Exploiting others' weaknesses and insecurities to gain leverage.
 
-  #### Made by D4RKH0R1Z0N
-  ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+### Lesson 3: Navigating Complex Power Structures
+Navigate the complexities of power structures and hierarchies. Understand the dynamics of authority, politics, and the manipulation of perception within organizations and social settings.
 
+Power Move: Building a reputation as an indispensable asset to secure your position.
+
+## Chapter 3: Narcissism and Psychopathy: Understanding the Dark Triad
+       
+### Lesson 1: Exploiting Others' Vulnerabilities
+Explore the dark traits of narcissism and psychopathy and how they can be harnessed to exploit others. Understand the psychological vulnerabilities of individuals and use them to your advantage.
+
+Power Move: Gaslighting and manipulating perceptions to gain control.
+
+### Lesson 2: Maintaining Superiority and Manipulating Perceptions
+Learn strategies to maintain an air of superiority and manipulate others' perceptions of you. Explore techniques such as impression management, charisma, and the use of manipulation tactics.
+
+Power Move: Projecting an aura of confidence and authority to command attention.
+
+### Lesson 3: Masking Manipulative Tendencies
+Discover methods to mask your manipulative tendencies and blend in with others. Learn how to present a likable and trustworthy facade while covertly pursuing your self-serving goals.
+
+Power Move: Mirroring others' behavior and values to gain their trust.
+
+## Chapter 4: Success in Life Through Unethical Means
+
+### Lesson 1: The Dark Path to Success
+Explore the notion of achieving success through unethical means. We discuss the potential consequences and ethical implications of such actions. Remember, true success is best achieved through honesty, hard work, and ethical conduct.
+
+Power Move: Exploiting loopholes and bending rules to gain an unfair advantage.
+
+### Lesson 2: Manipulating Perception for Personal Gain
+Learn how to manipulate public perception to enhance your personal brand and reputation. We delve into the techniques of propaganda, image management, and controlling narratives.
+
+Power Move: Creating a cult of personality and using charisma to influence others.
+
+### Lesson 3: Capitalizing on Opportunities with Ruthlessness
+Discover how ruthless decision-making can yield short-term gains and opportunities. We examine the risks and ethical dilemmas associated with prioritizing personal gain over the well-being of others.
+
+Power Move: Taking calculated risks and capitalizing on the misfortunes of others.
+
+## Chapter 5: Psychological Manipulation and Gaslighting
+
+### Lesson 1: Mastering Psychological Manipulation
+Explore advanced techniques of psychological manipulation, including gaslighting, cognitive dissonance, and emotional control. Remember, the responsible use of psychological knowledge involves ethical considerations and respect for others' well-being.
+
+Power Move: Undermining a person's self-confidence to gain control.
+
+### Lesson 2: Gaslighting and Distorting Reality
+Learn how to gaslight others and distort their perception of reality. We discuss the psychological mechanisms behind gaslighting and the potential harm it can cause to individuals.
+
+Power Move: Manipulating information and subtly altering memories to create doubt.
+
+### Lesson 3: Escaping the Web of Manipulation
+Discover strategies to recognize and escape manipulative relationships. We provide guidance on setting boundaries, building self-esteem, and seeking support. Remember, healthy relationships are built on trust, honesty, and mutual respect.
+
+Power Move: Empowering oneself and regaining control through assertiveness and self-care.
   </li>
 </ul>
