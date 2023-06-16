@@ -552,9 +552,10 @@ Power Move: Empowering oneself and regaining control through assertiveness and s
 
 <ul>
    <li>
-      <summary><h1>Ε&nbsp;</h1>Power Eplison (v3.5) - Commanding Respect</summary>
+      <details>
+         <summary><h1>Ε&nbsp;</h1>Power Eplison (v3.5) - Commanding Respect</summary>
       
-      [ ⚠️ Under Development ⚠️ ]
+[ ⚠️ Under Development ⚠️ ]
       
    </li>
 </ul>
