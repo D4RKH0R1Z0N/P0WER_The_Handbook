@@ -1,7 +1,7 @@
 # P0WER
 ### A handbook to Ultimate Power
 
-[ ⚠️ Under Development ⚠️ ]
+## [ ⚠️ Under Development ⚠️ ]
 
 ```
 **************************************************************
