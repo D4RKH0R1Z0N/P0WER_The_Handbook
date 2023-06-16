@@ -1,6 +1,8 @@
 # P0WER
 ### A handbook to Ultimate Power
 
+[ ⚠️ Under Development ⚠️ ]
+
 ```
 **************************************************************
 * A guide on gaining power, through dark psychology          *
