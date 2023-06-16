@@ -34,7 +34,7 @@ These all we generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), u
 <ul>
    <li>
       <details>
-         <summary><h1>α&nbsp;</h1>Power Alpha (v1.0)</summary>
+         <summary><h1>α&nbsp;</h1>Power Alpha (v1.0) - General</summary>
          
 ## Table of Contents
 
@@ -234,7 +234,7 @@ Congratulations on completing this comprehensive guide to gaining power, influen
 <ul>
    <li>
       <details>
-         <summary><h1>β&nbsp;</h1>Power Beta (v2.0)</summary>
+         <summary><h1>β&nbsp;</h1>Power Beta (v2.0) - General</summary>
          
 # Power Dynamics and Dark Psychology: Understanding the Shadows
 
@@ -373,7 +373,7 @@ Congratulations! You have completed the comprehensive guide to power dynamics, s
 <ul>
    <li>
       <details>
-         <summary><h1>γ&nbsp;</h1>Power Gamma (v2.5)</summary>
+         <summary><h1>γ&nbsp;</h1>Power Gamma (v2.5) - Mind Control</summary>
 
 # The Sinister Path: Unleashing the Art of Nefarious Mind Control
 
@@ -451,7 +451,7 @@ Exploit the inherent fear of scarcity to control your targets' actions. Manipula
 <ul>
   <li>
     <details>
-      <summary><h1>Δ&nbsp;</h1>Power Delta (v3.0)</summary>
+      <summary><h1>Δ&nbsp;</h1>Power Delta (v3.0) - General</summary>
 
 ### Table of Contents :
 
@@ -548,4 +548,13 @@ Discover strategies to recognize and escape manipulative relationships. We provi
 
 Power Move: Empowering oneself and regaining control through assertiveness and self-care.
   </li>
+</ul>
+
+<ul>
+   <li>
+      <summary><h1>Ε&nbsp;</h1>Power Eplison (v3.5) - Commanding Respect</summary>
+      
+      [ ⚠️ Under Development ⚠️ ]
+      
+   </li>
 </ul>
