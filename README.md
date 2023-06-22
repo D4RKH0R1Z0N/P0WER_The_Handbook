@@ -449,7 +449,7 @@ Exploit the inherent fear of scarcity to control your targets' actions. Manipula
 <ul>
   <li>
     <details>
-      <summary><h1>Δ&nbsp;</h1>Power Delta (v3.0) - General</summary>
+      <summary><h1>δ&nbsp;</h1>Power Delta (v3.0) - General</summary>
 
 ### Table of Contents :
 
@@ -551,7 +551,7 @@ Power Move: Empowering oneself and regaining control through assertiveness and s
 <ul>
    <li>
       <details>
-         <summary><h1>Ε&nbsp;</h1>Power Eplison (v3.5) - Commanding Respect</summary>
+         <summary><h1>ε&nbsp;</h1>Power Eplison (v3.5) - Commanding Respect</summary>
       
 # How to Command Respect Through Any Means Possible
 
@@ -636,7 +636,7 @@ By leveraging social influence, exploiting weaknesses, manipulating social dynam
 <ul>
    <li>
       <details>
-         <summary><h1>Ζ&nbsp;</h1>Power Zeta (v4.0) - Gaining and Maintaing Reputation (School Environment-orientated)</summary>
+         <summary><h1>ζ&nbsp;</h1>Power Zeta (v4.0) - Gaining and Maintaing Reputation (School Environment-orientated)</summary>
 
 # Gaining and Maintaining Reputation: Unleashing Your Dark Side
 
@@ -725,7 +725,7 @@ To maintain your reputation, it is crucial to undermine and sabotage potential r
 <ul>
    <li>
       <details>
-         <summary><h1>Η&nbsp;</h1>Power Eta (v4.2) - Fixing tarnished reputation</summary>
+         <summary><h1>η&nbsp;</h1>Power Eta (v4.2) - Fixing tarnished reputation</summary>
 
 # Fixing a Tarnished Reputation: Unleashing Your Dark Desires
 
