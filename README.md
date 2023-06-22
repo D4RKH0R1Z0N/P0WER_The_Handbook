@@ -443,6 +443,9 @@ Master the art of confirmation bias manipulation. Craftily present information t
 ### Diabolical Trick: The Scarcity Illusion
 Exploit the inherent fear of scarcity to control your targets' actions. Manipulate their perception of availability and exclusivity to intensify desire and drive them into unquestioning compliance.
 
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
    </li>
 </ul>
 
@@ -545,6 +548,10 @@ Power Move: Manipulating information and subtly altering memories to create doub
 Discover strategies to recognize and escape manipulative relationships. We provide guidance on setting boundaries, building self-esteem, and seeking support. Remember, healthy relationships are built on trust, honesty, and mutual respect.
 
 Power Move: Empowering oneself and regaining control through assertiveness and self-care.
+
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
   </li>
 </ul>
 
@@ -630,6 +637,10 @@ Power Move: Engage in daring acts or make bold decisions that others would shy a
 To command respect through any means possible, you must combine all the concepts and tactics discussed in the previous chapters. This final chapter offers a comprehensive guide on how to gain respect using a combination of psychological manipulation, power dynamics, and strategic moves.
 
 By leveraging social influence, exploiting weaknesses, manipulating social dynamics, embracing Machiavellian tactics, adopting narcissism, and unleashing your inner psychopath, you can establish a commanding presence that demands respect, regardless of the means employed.
+
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
    </li>
 </ul>
 
@@ -719,6 +730,9 @@ Secrets and rumors can be potent weapons in the quest for reputation. Unearth hi
 
 To maintain your reputation, it is crucial to undermine and sabotage potential rivals. Identify those who pose a threat to your standing and employ a range of tactics to weaken their position. From subtle acts of sabotage to strategic social manipulation, dismantle their alliances and sow seeds of doubt and mistrust. By eroding their reputations, you solidify your own dominance and ensure your place at the top of the school's social ladder.
 
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
    </li>
 </ul>
 
@@ -789,5 +803,9 @@ Harness the power of perception to your advantage. Shape how others see you by c
 ### Lesson 3: Crushing Opposition
 
 To secure your position of power, you must annihilate any opposition that dares to challenge you. Crush dissent with an iron fist, using intimidation, coercion, and ruthless tactics. Show no mercy to those who stand in your way, leaving a trail of broken spirits and shattered reputations in your wake.
+
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+
    </li>
 </ul>
