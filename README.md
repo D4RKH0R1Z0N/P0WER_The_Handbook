@@ -811,7 +811,7 @@ To secure your position of power, you must annihilate any opposition that dares 
 <ul>
    <li>
       <details>
-         <summary><h1>Θ&nbsp;</h1>Power Theta (v4.5) - </summary>
+         <summary><h1>Θ&nbsp;</h1>Power Theta (v4.5) - Two Face</summary>
 
 # Table of Contents
 
