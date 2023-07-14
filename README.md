@@ -7,6 +7,7 @@
 * Read LICENSE of this repository first,                     *
 * All right to D4RKH0R1Z0N, the Author is not responsible    *
 * for any sort of damage, AI-Generated.                      *
+* MAY CONTAIN FITIONAL CONTENT.                              *
 **************************************************************
 ```
 
