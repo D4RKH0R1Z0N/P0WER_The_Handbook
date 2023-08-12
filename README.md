@@ -1137,28 +1137,27 @@ Dark Psychology Trick: Cult of Rebellion - Cultivate a rebellious narrative and 
 # Control Emotions and Body Language Mastery Guide
 
 ## Table of Contents
-[ ⚠️ Links Under Construction ⚠️ ]
-- [Introduction](#introduction)
-- [Chapter 1: Eliminating Love and Affection](#chapter-1)
-  - [Lesson 1: Detaching from Emotional Attachments](#lesson-1)
-  - [Lesson 2: Neutralizing Emotional Triggers](#lesson-2)
-  - [Lesson 3: Reprogramming Emotional Responses](#lesson-3)
-- [Chapter 2: Embracing Non-reactiveness](#chapter-2)
-  - [Lesson 1: Developing Emotional Resilience](#lesson-1-2)
-  - [Lesson 2: Cultivating Mindful Awareness](#lesson-2-2)
-  - [Lesson 3: Practicing Emotional Detachment](#lesson-3-2)
-- [Chapter 3: Gaining Complete Control over Emotions](#chapter-3)
-  - [Lesson 1: Harnessing the Power of Self-Awareness](#lesson-1-3)
-  - [Lesson 2: Utilizing Cognitive Restructuring Techniques](#lesson-2-3)
-  - [Lesson 3: Applying Emotional Regulation Strategies](#lesson-3-3)
-- [Chapter 4: Dark Psychology Tricks for Confidence](#chapter-4)
-  - [Lesson 1: Mastering Manipulative Body Language](#lesson-1-4)
-  - [Lesson 2: Deploying Verbal Persuasion Techniques](#lesson-2-4)
-  - [Lesson 3: Exploiting Psychological Vulnerabilities](#lesson-3-4)
-- [Chapter 5: Becoming Dominant and Assertive](#chapter-5)
-  - [Lesson 1: Projecting Dominant Body Language](#lesson-1-5)
-  - [Lesson 2: Establishing Assertive Communication](#lesson-2-5)
-  - [Lesson 3: Developing Social Power Dynamics](#lesson-3-5)
+- [Introduction](#introduction-7)
+- [Chapter 1: Eliminating Love and Affection](#chapter-1-eliminating-love-and-affection)
+  - [Lesson 1: Detaching from Emotional Attachments](#lesson-1-detaching-from-emotional-attachments)
+  - [Lesson 2: Neutralizing Emotional Triggers](#lesson-2-neutralizing-emotional-triggers)
+  - [Lesson 3: Reprogramming Emotional Responses](#lesson-3-reprogramming-emotional-responses)
+- [Chapter 2: Embracing Non-reactiveness](#chapter-2-embracing-non-reactiveness)
+  - [Lesson 1: Developing Emotional Resilience](#lesson-1-developing-emotional-resilience)
+  - [Lesson 2: Cultivating Mindful Awareness](#lesson-2-cultivating-mindful-awareness)
+  - [Lesson 3: Practicing Emotional Detachment](#lesson-3-practicing-emotional-detachment)
+- [Chapter 3: Gaining Complete Control over Emotions](#chapter-3-gaining-complete-control-over-emotions)
+  - [Lesson 1: Harnessing the Power of Self-Awareness](#lesson-1-harnessing-the-power-of-self-awareness)
+  - [Lesson 2: Utilizing Cognitive Restructuring Techniques](#lesson-2-utilizing-cognitive-restructuring-techniques)
+  - [Lesson 3: Applying Emotional Regulation Strategies](#lesson-3-applying-emotional-regulation-strategies)
+- [Chapter 4: Dark Psychology Tricks for Confidence](#chapter-4-dark-psychology-tricks-for-confidence)
+  - [Lesson 1: Mastering Manipulative Body Language](#lesson-1-mastering-manipulative-body-language)
+  - [Lesson 2: Deploying Verbal Persuasion Techniques](#lesson-2-deploying-verbal-persuasion-techniques)
+  - [Lesson 3: Exploiting Psychological Vulnerabilities](#lesson-3-exploiting-psychological-vulnerabilities)
+- [Chapter 5: Becoming Dominant and Assertive](#chapter-5-becoming-dominant-and-assertive)
+  - [Lesson 1: Projecting Dominant Body Language](#lesson-1-projecting-dominant-body-language)
+  - [Lesson 2: Establishing Assertive Communication](#lesson-2-establishing-assertive-communication)
+  - [Lesson 3: Developing Social Power Dynamics](#lesson-3-developing-social-power-dynamics)
 
 ## Introduction
 Welcome to the Control Emotions and Body Language Mastery Guide, where you will learn powerful techniques to gain dominion over your emotions and project confident body language. This guide utilizes dark psychology tricks, manipulation, and deception to empower you in various social situations.
@@ -1215,5 +1214,66 @@ Understand and leverage social power dynamics to navigate and influence social i
 
 #### Made by D4RKH0R1Z0N
 ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
+   </li>
+</ul>
+
+<ul>
+   <li>
+      <details>
+         <summary><h1>Σ&nbsp;</h1>Power Sigma (v5.5) [Handwritten]</summary>
+
+# Seperating People, Love bombing and Gaslighting
+## 1st Handwritten Section
+
+## Table of Contents
+- [Introduction](#introduction-8)
+- [Chapter 1: Love Bombing](#chapter-1-love-bombing)
+- [Chapter 2: Gaslighting](#chapter-2-gaslighting)
+- [Chapter 3: Separation](#chapter-3-seperation)
+
+## Introduction
+
+About Seperating people by casual deception, misinformations, building trust and establish rapport by love bombing adn gaslighting to make someone question their reality, and at the end we will discuss a little plan which you can expand upon and make it better, to separate two close friends, just to see them suffer! (No sadistic intentions)
+
+# Chapter 1: Love Bombing
+
+Love bombing is a powerful tool to build trust and establish rapport, here how you can love bomb someone and a diabolic trick at the end to make them run after you
+
+### Step 1 - The compliments
+
+Compliment them for the smallest things, spend a lot of time with them, understand their emotions and position yourself as the only person they can depend on, trust, be honest, express themselves, but don't make it too obvious, connect with them deeply inside, emtional (mabye spiritually even? if that's possible...)
+
+### Step 2 - More Trust
+
+Now that you've connected with them deeply inside, build more trust and make them want to talk to you, make them laugh and bring positive emotions and support them, here's a trick but use it carefully as it can mabye put you on danger too - Share a secret with them, and the person will be more open to you, indirectly  make them tell a secret or two, and be careful not to reveal your acutal and embarrassing secrets and lead to you downfall eventually, now you can use techniques like blackmailing here, but its your choice, and be careful sometimes it can be illegal
+
+### Step 3 - Ghost them
+
+Now ghost them, don't talk until they talk, make them feel a little lonely, but not too much, and then use this to make them keep reaching out to you, make them dependent on you, and now that their dependent, start gaining power and control over them and that's all
+
+### Step 4 - Collect the Data
+
+Data is key! Get the most out of them, like embarrassing secrets, illegal and unethical activites done by them, and as I mentioned the trick you can use earlier to get their secrets, use it while keeping yourself safe, and did you know? most people are open and most likely to tell their secrets at night, and if you suspect someone is lying, just give them a stare in complete silence, and most likely they'll reveal it
+
+### Step 5 - POWER
+
+Now that you got the juicy information, use it against them and gain complete control over them, but this can be illegal, you can force them like to your needs and do whatever but this mostly depends on what kind of and level of vulnerability of the secrets, the key is to stay patient and get the most data you can
+
+## Chapter 2: Gaslighting
+
+Gaslighting can be illegal and most likely is, it can make someone question their own reality and sometimes if used right can make someone miserable and feeling severe emotions that could cause nerve damage, but probably I'm just exaggerating... Now without wasting time I'll explain how it's done let's start with an example
+
+### Imagine
+
+One day, I meet you we're friends and your talking about your first birthday, and as a teenager or and adult you most likely would have forgetten you 1st year birthday completely, and I say that I was at your birthday, and a question sparks up in your head "Was he there? or not?" a dilemma, and you say like "I think so... I was holding a red balloon, right?" and I go like "No, you were holding a blue balloon" and you deny and we both start a little arguing and then I strongly say "I am 100% sure, that you had a blue ballon not a red balloon" I'd say like you don't remember it and other lies, when it was actually a red balloon, you could also say pink as it is more closer to red and more likely to make the person believe it, but that's a other story, so your most likely going to believe it or rarely no, but when I bring in some friends of ours and make them say its a blue one, you have a higher chance of believing this
+
+Now that example is small scale, and if your a older person your more vulnerable, if we you want you can increase from simple white lies to complex schemes, and if you understood this completely, you can see the true potential of this, you can make someone question there own reality, make them go insane, the possibilities are ENDLESS!
+
+## Chapter 3: Separation
+
+Now with some tricks up your sleeve, and more studying you can make your own plan, but before that let's explore separating people, just for the fun of it (or mabye for other intentions)
+
+Let's say one of your friends, and another friend of theirs exist for some reason... Sometimes your just left out... Imagine it, lonely, akward, the pain of ignorance... But your not a emotional idiot are you? are atleast I'm not, most of time... Now their just took close for their own good, your left out! You have to gain dominance, you can use simple and complex lies, spread rumors and misinformation when their not around, but be careful this has to be done without anyones notice or suspect and carfully, its a delicate process, tell your friend when this friend is not there, you can use many lies, like he's betraying you, secretly  hates you, spreads rumors about you, use some gaslighting here too, and along with the process use love bombing too, slowly but surely break their trust, and relationship, a key tool is humor, use humor in disguise and make a lot of rumors staying anonymous, fuel conflict between this two, stay neutral if possible which may not be possible sometimes, then pick a side if things get a little out of hand but don't immediately try to stay neutral, keep doing this until there relationship is broken, and build yours, after a while when they both are no longer in relationship anymore, love bomb them, and gain power and control, use method in this section mentioned above, make a full-proof plan and spread your dominance!
+
    </li>
 </ul>
