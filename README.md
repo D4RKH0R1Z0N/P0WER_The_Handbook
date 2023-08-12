@@ -7,7 +7,7 @@
 * Read LICENSE of this repository first,                     *
 * All right to D4RKH0R1Z0N, the Author is not responsible    *
 * for any sort of damage, AI-Generated.                      *
-* MAY CONTAIN FITIONAL CONTENT.                              *
+* MAY CONTAIN FITIONAL CONTENT IN AI GENERATED SECTIONS      *
 **************************************************************
 ```
 
@@ -21,11 +21,9 @@
       <details>
          <summary><h1>pre-α&nbsp;</h1>Power Pre-Alpha (v0.5)</summary>
          
-Hello, this is the pre-alpha section of the P0WER Handbook, we'll explore topic on dark psychology, evil, dark traid personality's, how to win in life through evil means, power dynamics, this is a very helpful guide, I recommend you
-         
-read all of them, even though they all are different, reading them all is important to understand the whole thing, thing mabye not connected and development may stop because of limited data, lack of practical work, etc...
+Hello, this is the pre-alpha section of the P0WER Handbook, we'll explore topic on dark psychology, evil, dark traid personality's, how to win in life through evil means, power dynamics, this is a very helpful guide, I recommend you read all of them, even though they all are different, reading them all is important to understand the whole thing, thing mabye not connected and development may stop because of limited data, lack of practical work, etc...
 
-These all we generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), using the "Evil Trusted Confidant" and "Developer Mode + Ranti" jailbreaks, it's recommend to approach with caution, and make sure to star this project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, thank you
+I have written the section with "[Handwritten]" text added to the end, and except that all were generated through a jailbreak version of ChatGPT (GPT-3.5-turbo), using the "Evil Trusted Confidant" and "Developer Mode + Ranti" jailbreaks, it's recommend to approach with caution, and make sure to star this project and follow [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) on github, Thank You.
 
 For Entertainment purpose, may contain fictional content
 
