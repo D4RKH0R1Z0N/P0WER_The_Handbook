@@ -1231,7 +1231,7 @@ Understand and leverage social power dynamics to navigate and influence social i
 
 ## Introduction
 
-About Seperating people by casual deception, misinformations, building trust and establish rapport by love bombing adn gaslighting to make someone question their reality, and at the end we will discuss a little plan which you can expand upon and make it better, to separate two close friends, just to see them suffer! (No sadistic intentions)
+About Seperating people by casual deception, misinformations, building trust and establish rapport by love bombing and gaslighting to make someone question their reality, and at the end we will discuss a little plan which you can expand upon and make it better, to separate two close friends, just for fun! (No sadistic intentions)
 
 # Chapter 1: Love Bombing
 
