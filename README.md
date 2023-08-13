@@ -1273,5 +1273,7 @@ Now with some tricks up your sleeve, and more studying you can make your own pla
 
 Let's say one of your friends, and another friend of theirs exist for some reason... Sometimes your just left out... Imagine it, lonely, akward, the pain of ignorance... But your not a emotional idiot are you? are atleast I'm not, most of time... Now their just took close for their own good, your left out! You have to gain dominance, you can use simple and complex lies, spread rumors and misinformation when their not around, but be careful this has to be done without anyones notice or suspect and carfully, its a delicate process, tell your friend when this friend is not there, you can use many lies, like he's betraying you, secretly  hates you, spreads rumors about you, use some gaslighting here too, and along with the process use love bombing too, slowly but surely break their trust, and relationship, a key tool is humor, use humor in disguise and make a lot of rumors staying anonymous, fuel conflict between this two, stay neutral if possible which may not be possible sometimes, then pick a side if things get a little out of hand but don't immediately try to stay neutral, keep doing this until there relationship is broken, and build yours, after a while when they both are no longer in relationship anymore, love bomb them, and gain power and control, use method in this section mentioned above, make a full-proof plan and spread your dominance!
 
+#### Made by D4RKH0R1Z0N
+##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
    </li>
 </ul>
