@@ -1277,3 +1277,16 @@ Let's say one of your friends, and another friend of theirs exist for some reaso
 ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
    </li>
 </ul>
+
+
+<ul>
+   <li>
+      <summary><h1>⛤ </h1>Power Dynamics [Series] [Handwritten] - </summary>
+      <ul>
+         <li>
+            <details>
+               <summary>Sub-Topic 1 [Under Development]</summary>
+         </li>
+      </ul>
+   </li>
+</ul>
