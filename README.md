@@ -1281,12 +1281,41 @@ Let's say one of your friends, and another friend of theirs exist for some reaso
 
 <ul>
    <li>
-      <summary><h1>⛤ </h1>Power Dynamics [Series] [Handwritten] - </summary>
-      <ul>
-         <li>
-            <details>
-               <summary>Sub-Topic 1 [Under Development]</summary>
-         </li>
-      </ul>
+      <details>
+      <summary><h1>⛤ </h1>The Brainwashing [Handwritten]</summary>
+
+#### Warning : You at your own risk! not really, I don't care, do whatever you want it's your wish but I'm not responsible
+
+## [Table of Contents] (Coming Soon!)
+
+# Introduction
+
+You will learn about brainwashing STEP-BY-STEP, you won't get this anywhere else, plus this all free, so save this as a html, text, image or a pdf file before it gets removed!
+
+# The guide
+
+If you haven't go check out the gaslighting guide from the previous chapter already, so let's continue after you've reviewed that, and also develop your damn LYING/DECEPTION SKILLS! you have to lie better...
+
+So this is how (in a step-by-step guide)
+
+### Step 1 - Breaking down of Self
+
+Systematically attack the victim's sense of themself, say things like "You are not worthy", "You are not a man", these things will stay up in there mind for days to months, well if the victim has a lot of confidence and self-esteem, do it more, and gaslight them into questioning their decisions, here's a small trick, limit their decisions, Example :
+
+Instead of saying "How much are you willing to donate?" ask like "Are you giving 120$ or 45$", I included another trick here known as anchoring, I give them a big price first and a reasonable price compared to a big price, instead of the first question, where they can just deny or give like 2$, I gave them two options, which increases their choice being those two by more than approx. 50-80% but certainly will work on small decisions rather than life-changing ones
+
+Now back to the original topic, you should make the victim as confused as possible, and make them question their decisions and making them dependent on an external source like you, you have to make them into a nihilistic state, and forget who they are basically, this can be done through repeated gaslighting, deception, etc... or sometimes through normal verbal communication! but don't expect anything yet! there is still more, continue reading...
+
+### Step 2 - More Sabotage
+
+Guilt
+
+#### [In Development]
+#### { Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N) }
    </li>
 </ul>
+<br>
+
+#### { One of the largest source of Dark Psychological Information (I think) }
+#### [ D4RKH0R1Z0N - https://github.com/D4RKH0R1Z0N ]
+#### { D4RK-PSYCHOLOGY } - [ PDF Version (Might be outdated, will be updated soon...) ]
