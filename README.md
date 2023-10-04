@@ -1294,7 +1294,7 @@ You will learn about brainwashing STEP-BY-STEP, you won't get this anywhere else
 
 # The guide
 
-If you haven't go check out the gaslighting guide from the previous chapter already, so let's continue after you've reviewed that, and also develop your damn LYING/DECEPTION SKILLS! you have to lie better...
+If you haven't go check out the gaslighting guide from the previous section already, so let's continue after you've reviewed that, and also develop your damn LYING/DECEPTION SKILLS! you have to lie better...
 
 So this is how (in a step-by-step guide)
 
@@ -1308,7 +1308,15 @@ Now back to the original topic, you should make the victim as confused as possib
 
 ### Step 2 - More Sabotage
 
-Guilt
+Now you've done some good sabotage, they enter a stage of guilt, and your goal is to amplify it, make them forget their identity, make them have a identity crisis, lower thier self-esteem, again this can be done through subtle and systematical blaming, gaslighting, and a spice of love bombing (In previous section)
+
+Now you made them think their guilty, and now give the victim as much pain as possible, physical and mental combined is the best (and like peer-pressure, betrayel, etc...), make them forget their old identity, and make sure to be subtle
+
+### Step 3 - Remodel
+
+Now, the victim is in great depression, and lost them self, present yourself as the person who can fix it all, bring light in their dark life, but not that quick, let them have their personal space and stay away for a while, let them sink in their feelings deep, and when their at their breaking point, start guiding them and subtly remodel their thought patterns and don't hurry and don't get caught and importantly establish rapport and gain their deepest trust
+
+##### There is still more...
 
 #### [In Development]
 #### { Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N) }
@@ -1318,4 +1326,4 @@ Guilt
 
 #### { One of the largest source of Dark Psychological Information (I think) }
 #### [ D4RKH0R1Z0N - https://github.com/D4RKH0R1Z0N ]
-#### { D4RK-PSYCHOLOGY } - [ PDF Version (Might be outdated, will be updated soon...) ]
+#### { D4RK-PSYCHOLOGY } - [ PDF Version (Might be outdated, will be updated soon...) ] 
