@@ -1284,39 +1284,45 @@ Let's say one of your friends, and another friend of theirs exist for some reaso
       <details>
       <summary><h1>⛤ </h1>The Brainwashing [Handwritten]</summary>
 
-#### Warning : You at your own risk! not really, I don't care, do whatever you want it's your wish but I'm not responsible
+#### Warning : Use at your own risk! Not really. I don't care. Do whatever you want; it's your wish, but I'm not responsible.
 
 ## [Table of Contents] (Coming Soon!)
 
 # Introduction
 
-You will learn about brainwashing STEP-BY-STEP, you won't get this anywhere else, plus this all free, so save this as a html, text, image or a pdf file before it gets removed!
+You will learn about brainwashing STEP-BY-STEP, you won't get this anywhere else, plus this is all free, so save this as a HTML, text, image, or a pdf file before it gets removed!
 
 # The guide
 
 If you haven't go check out the gaslighting guide from the previous section already, so let's continue after you've reviewed that, and also develop your damn LYING/DECEPTION SKILLS! you have to lie better...
-
 So this is how (in a step-by-step guide)
 
+## Chapter 1: Brainwashing
+
 ### Step 1 - Breaking down of Self
+Systematically attack the victim's sense of themself, say things like "You are not worthy", "You are not a man", these things will stay in their minds for days to months. Well,  if the victim has a lot of confidence and self-esteem, do it more, and gaslight them into questioning their decisions. here's a small trick, limit their decisions.
 
-Systematically attack the victim's sense of themself, say things like "You are not worthy", "You are not a man", these things will stay up in there mind for days to months, well if the victim has a lot of confidence and self-esteem, do it more, and gaslight them into questioning their decisions, here's a small trick, limit their decisions, Example :
+Instead of saying, "How much are you willing to donate?" ask like "Are you giving 120$ or 45$", I included another trick here known as anchoring, I give them a big price first and a reasonable price compared to a big price. instead of the first question, where they can just deny or give like 2$, I gave them two options, which increases their choice being those two by more than approx. 50-80% but certainly will work on small decisions rather than life-changing ones
 
-Instead of saying "How much are you willing to donate?" ask like "Are you giving 120$ or 45$", I included another trick here known as anchoring, I give them a big price first and a reasonable price compared to a big price, instead of the first question, where they can just deny or give like 2$, I gave them two options, which increases their choice being those two by more than approx. 50-80% but certainly will work on small decisions rather than life-changing ones
-
-Now back to the original topic, you should make the victim as confused as possible, and make them question their decisions and making them dependent on an external source like you, you have to make them into a nihilistic state, and forget who they are basically, this can be done through repeated gaslighting, deception, etc... or sometimes through normal verbal communication! but don't expect anything yet! there is still more, continue reading...
+Now back to the original topic, you should make the victim as confused as possible, and make them question their decisions and making them dependent on an external source like you. you have to make them into a nihilistic state, and forget who they are. basically, this can be done through repeated gaslighting, deception, etc... or sometimes through normal verbal communication! but don't expect anything yet! there is still more, continue reading...
 
 ### Step 2 - More Sabotage
+Now that you've done some good sabotage, they enter a stage of guilt, and your goal is to amplify it, make them forget their identity, make them have a identity crisis, and lower their self-esteem. Again,  this can be done through subtle and systematical blaming, gaslighting, and a spice of love bombing (in the previous section).
 
-Now you've done some good sabotage, they enter a stage of guilt, and your goal is to amplify it, make them forget their identity, make them have a identity crisis, lower thier self-esteem, again this can be done through subtle and systematical blaming, gaslighting, and a spice of love bombing (In previous section)
+Now you made them think they were guilty, and now you give the victim as much pain as possible; physical and mental combined are the best (and like peer pressure, betrayal, etc...), make them forget their old identity, and make sure to be subtle. Isolation is key; isolate them from their loved ones, family, friends, and everyone else, basically except you.
 
-Now you made them think their guilty, and now give the victim as much pain as possible, physical and mental combined is the best (and like peer-pressure, betrayel, etc...), make them forget their old identity, and make sure to be subtle
+### Step 3: Remodel
+Now that the victim is in great depression and has lost themselves, present yourself as the person who can fix it all, bring light into their dark life, but not that quickly; let them have their personal space and stay away for a while; let them sink deep into their feelings; and when they're at their breaking point, start guiding them and subtly remodelling their thought patterns; don't hurry; don't get caught; and most importantly, establish rapport and gain their deepest trust.
 
-### Step 3 - Remodel
+### Step 4: Don't let them forget yet.
+Don't let them forget their old mistakes or how they felt shame and guilt; remind them, but not too much that causes pain; make it stay within a limit; leave subtle references about their mistakes; and don't let them lose trust in you.
 
-Now, the victim is in great depression, and lost them self, present yourself as the person who can fix it all, bring light in their dark life, but not that quick, let them have their personal space and stay away for a while, let them sink in their feelings deep, and when their at their breaking point, start guiding them and subtly remodel their thought patterns and don't hurry and don't get caught and importantly establish rapport and gain their deepest trust
+### Step 5: Forget the past
+Make them know that the past identity was a worse version and always inflicted pain, and guide them to their new identity, how you want them to be, gaslight them, and finally love bomb them once and for all. After this, they'll trust you too much for their own good, be dependent on you, and let you take control.
 
-##### There is still more...
+#### [ There's actually much more to it; explore online or in your own mind, think creatively, and awaken your inner philosopher.]
+
+# Chapter 2:
 
 #### [In Development]
 #### { Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N) }
