@@ -15,7 +15,7 @@
 ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
 
 ## Read all of the versions to fully understand
-
+## Better version (Book) coming soon...
 <ul>
    <li>
       <details>
@@ -1282,7 +1282,11 @@ Let's say one of your friends, and another friend of theirs exist for some reaso
 <ul>
    <li>
       <details>
-      <summary><h1>⛤ </h1>The Brainwashing [Handwritten]</summary>
+      <summary><h1>⛤ </h1>Assertiveness & Brainwashing[In Development] [Handwritten]</summary>
+      <ul>
+         <li>
+            <details>
+            <summary>The Brainwashing [Handwritten]</summary>
 
 #### Warning : Use at your own risk! Not really. I don't care. Do whatever you want; it's your wish, but I'm not responsible.
 
@@ -1320,15 +1324,50 @@ Don't let them forget their old mistakes or how they felt shame and guilt; remin
 ### Step 5: Forget the past
 Make them know that the past identity was a worse version and always inflicted pain, and guide them to their new identity, how you want them to be, gaslight them, and finally love bomb them once and for all. After this, they'll trust you too much for their own good, be dependent on you, and let you take control.
 
-#### [ There's actually much more to it; explore online or in your own mind, think creatively, and awaken your inner philosopher.]
+#### [ There's actually much more to it; explore online or in your own mind, or use critical thinking and experiment by yourself]
+   </li>
+</ul>
+<ul>
+   <li>
+      <details>
+      <summary>Assertiveness [Handwritten] [In Development]</summary>
 
-# Chapter 2:
+## [Table of Contents] (Coming Soon!)
+
+# Introduction
+
+A simple guide to being assertive, without assertiveness you cannot get the things you desire, and be anxious all the time, zero confidence, and you don't want to be like that and you have to get better at socializing and communication, etc... So, follow this guide to become assertive, and get better at socializing, etc...
+
+### Step 1: Balance assertiveness
+
+Assertiveness needs a delicate balance, if its too low, people won't listen to you and you'll fail, if its too high, people won't like you, and sometimes deny your orders, you shouldn't invade their boundaries, and you should be charismatic, and socialize well.
+
+### Step 2: Know your RIGHTS
+
+Most people know their rights, but sometimes they get scared, and feel guilty, empathize or sympathize too much, or think its too mean or little mean when its not, here is a list of rights you should not be guilty of, or think its mean
+
+- It’s your right to change your mind when ever you want
+- It’s your right to not justify your behavior with excuses
+- It’s your right to be illogical in your decision-making
+- It’s your right to say, “I don’t know.”
+- It’s your right to decide which of other people’s problems you have a responsibility to solve.
+- It’s your right to say, “I don’t care.”
+- It’s your right to express your opinions, no matter what
+- It’s your right to decide whats best for you
+- It’s your right to not believe in god, or other philosophical ideas
+- It’s your right to be rebellious
+- It’s your right to be Unique
+- It’s your right to do what you want
+
+### Step 3: 
+   </li>
+</ul>
 
 #### [In Development]
 #### { Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N) }
+<br>
    </li>
 </ul>
-<br>
 
 #### { One of the largest source of Dark Psychological Information (I think) }
 #### [ D4RKH0R1Z0N - https://github.com/D4RKH0R1Z0N ]
