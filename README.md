@@ -1282,15 +1282,13 @@ Let's say one of your friends, and another friend of theirs exist for some reaso
 <ul>
    <li>
       <details>
-      <summary><h1>⛤ </h1>Assertiveness & Brainwashing[In Development] [Handwritten]</summary>
+      <summary><h1>⛤ </h1>Toolkit [In Development] [Handwritten]</summary>
       <ul>
          <li>
             <details>
             <summary>The Brainwashing [Handwritten]</summary>
 
 #### Warning : Use at your own risk! Not really. I don't care. Do whatever you want; it's your wish, but I'm not responsible.
-
-## [Table of Contents] (Coming Soon!)
 
 # Introduction
 
@@ -1300,8 +1298,6 @@ You will learn about brainwashing STEP-BY-STEP, you won't get this anywhere else
 
 If you haven't go check out the gaslighting guide from the previous section already, so let's continue after you've reviewed that, and also develop your damn LYING/DECEPTION SKILLS! you have to lie better...
 So this is how (in a step-by-step guide)
-
-## Chapter 1: Brainwashing
 
 ### Step 1 - Breaking down of Self
 Systematically attack the victim's sense of themself, say things like "You are not worthy", "You are not a man", these things will stay in their minds for days to months. Well,  if the victim has a lot of confidence and self-esteem, do it more, and gaslight them into questioning their decisions. here's a small trick, limit their decisions.
@@ -1330,9 +1326,7 @@ Make them know that the past identity was a worse version and always inflicted p
 <ul>
    <li>
       <details>
-      <summary>Assertiveness [Handwritten] [In Development]</summary>
-
-## [Table of Contents] (Coming Soon!)
+      <summary>Assertiveness [Handwritten]</summary>
 
 # Introduction
 
@@ -1359,11 +1353,29 @@ Most people know their rights, but sometimes they get scared, and feel guilty, e
 - It’s your right to be Unique
 - It’s your right to do what you want
 
-### Step 3: 
+### Step 3: Confidence
+
+Build up your confidence, for this you'll need to use exposure therapy which works on all people (almost), so this is repeatedly putting yourself in situtations which give you the anxiety and lack of confidence, but I'm not telling you to go jump in a high-stakes argument which you don't know anything about, start with small things, like talking to a random stranger, or just socializing more, making new friends, and make the task harder as time goes on, soon you'll not feel a lack of confidence, or that social anxiety, and surround yourself with like-minded individuals, join socializing places like clubs
+
+### Step 4: Learn to say no
+
+Start saying No, when you have to... If you have followed the last steps, you'd have the confidence and you'll know your rights + no feel guilty, again don't feel guilty and just get into action without overthinking, but still think but not overthink, and don't have that tension/stress build up
+
+Don't say "I'm sorry" too much, it lowers your power and respect, but it also earns you respect, so don't avoid it completely, but don't say it unnecessarily, not for all things, try to replace it with "Thank You", or similar like example, you take a little long to come to a meeting, so instead of saying "Sorry, I am late" start saying "Thank you for your patience", this shifts the focus from you being late and thanking them, so they feel it's not a bad thing and feel great, just a small (manipulation?) trick
+
+### Step 5: Set boundaries and keep it Simple
+
+Setting bounaries is one of the most important skills, learn your rights, if you think your being manipulated and sure about it, set boundaries, be frank about it to them, or if you feel like it cut off the relationship, avoid toxic relations, friends or fake ones, and most of all, don't stress it, it's not that quick and easy to become assertive, it's not a thing you can achieve overnight, don't worry about it, stay calm and relaxed, just go with what you gut tells you
+   </li>
+</ul>
+<ul>
+   <li>
+      <deatils>
+      <summary>Manifest [In Development] (probably will be removed)</summary>
    </li>
 </ul>
 
-#### [In Development]
+#### [In Development]   
 #### { Made by D4RKH0R1Z0N (https://github.com/D4RKH0R1Z0N) }
 <br>
    </li>
