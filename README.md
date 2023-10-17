@@ -14,6 +14,8 @@
 #### Made by D4RKH0R1Z0N
 ##### Published by the Organization of [D4RK-ORG](https://github.com/d4rk-org)
 
+#### Reach out to me on Reddit [u/d4rkh0r1z0n_original](https://reddit.com/u/d4rkh0r1z0n_original) or post something on my subreddit [r/MindMaster](https://reddit.com/r/MindMaster)
+
 ## Read all of the versions to fully understand
 ## Better version (Book) coming soon...
 <ul>
