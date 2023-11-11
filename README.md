@@ -17,7 +17,9 @@
 #### Reach out to me on Reddit [u/d4rkh0r1z0n_original](https://reddit.com/u/d4rkh0r1z0n_original) or post something on my subreddit [r/MindMaster](https://reddit.com/r/MindMaster)
 
 ## Read all of the versions to fully understand
-## Better version (Book) coming soon...
+## The book is Finally out!
+
+Check out for free in [https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook](https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook)
 <ul>
    <li>
       <details>
